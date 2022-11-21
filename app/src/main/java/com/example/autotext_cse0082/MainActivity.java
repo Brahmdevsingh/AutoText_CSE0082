@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     AutoCompleteTextView auto1;
     EditText ed1,ed2;
     Button btn1;
-    String [] locations = {"Bangalore","Delhi","Bhopal","Pune","Hyderabad","Mumbai"};
+    String [] locations = {"Bangalore","Delhi","Bhopal","Pune","Hyderabad"};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
